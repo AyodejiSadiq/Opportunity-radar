@@ -1,2 +1,2 @@
 # Opportunity-radar
-intelligence platform for surfacing market opportunites 
+Opportunity Radar is a multi source intelligence platform that ingests fillings, news, and project data, then surfaces emerging opportunities with supporting evidence - built as a learning project to production standards.
